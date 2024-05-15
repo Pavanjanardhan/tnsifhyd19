@@ -1,4 +1,4 @@
-import ipl;
+package ipl;
 public class main {
 	public static void main(String[] args) {
 		cricket c1=new cricket();
